@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://classnotebook.com/index.php</loc><priority>1.0</priority></url>
+  <url><loc>https://classnotebook.com/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://classnotebook.com/blog.html</loc><priority>0.9</priority></url>
+  <url><loc>https://classnotebook.com/contact.html</loc><priority>0.8</priority></url>
+  <url><loc>https://classnotebook.com/privacy.html</loc><priority>0.5</priority></url>
+  <url><loc>https://classnotebook.com/terms.html</loc><priority>0.5</priority></url>
+  <url><loc>https://classnotebook.com/disclaimer.html</loc><priority>0.5</priority></url>
+  <url><loc>https://classnotebook.com/cookies.html</loc><priority>0.5</priority></url>
+  <url><loc>https://classnotebook.com/blog/the-cognitive-science-of-cornell-note-taking-cue-columns-syntheses-and-long-term-retrieval.html</loc><priority>0.8</priority></url>
+  <url><loc>https://classnotebook.com/blog/spaced-repetition-and-the-ebbinghaus-forgetting-curve-optimizing-review-intervals-for-exam-mastery.html</loc><priority>0.8</priority></url>
+  <url><loc>https://classnotebook.com/blog/active-recall-vs-passive-re-reading-the-testing-effect-in-deep-conceptual-learning.html</loc><priority>0.8</priority></url>
+  <url><loc>https://classnotebook.com/blog/feynman-technique-mastery-mental-models-simplification-and-identifying-knowledge-blindspots.html</loc><priority>0.8</priority></url>
+  <url><loc>https://classnotebook.com/blog/dual-coding-theory-in-academic-notes-integrating-visual-diagrams-with-structured-prose.html</loc><priority>0.8</priority></url>
+  <url><loc>https://classnotebook.com/blog/digital-vs-analog-notebooks-haptic-cognition-distraction-control-and-hybrid-workflows.html</loc><priority>0.8</priority></url>
+</urlset>
